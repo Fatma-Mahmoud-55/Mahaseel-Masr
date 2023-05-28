@@ -1,0 +1,83 @@
+[
+    {
+    "productName": "Dried Lentil",
+    "desc": "Lens culinaris, Чечевица, 兵豆, Lentilles, 렌틸, Lenteja, Lentil",
+    "image": "https://images.tridge.com/200x200/image/original/dc/e1/3c/dce13c2fe6e41f03d53587354b28a76734cbeb99.jpg"
+    },
+    {
+    "productName": "Sorghum",
+    "desc": "Vigna angularis, Бобы адзуки, 红豆, Haricot Azuki, 팥, Frijol (judía) adzuki, Adzuki Bean, Red Mung Bean, Aduki Bean, Azuki Bean",
+    "image": "https://images.tridge.com/200x200/image/original/7f/cf/4a/7fcf4ada7a1c44addfea15270222f394997bad84.jpg"
+    },
+    {
+    "productName": "Maize (Corn)",
+    "desc": "Vigna radiata, 绿豆, Haricot mungo, Soya verde, Mung Bean, Moog Dal, Moong Dal, Mungbean, Green Gram, Mung Dal",
+    "image": "https://images.tridge.com/200x200/image/original/91/a4/15/91a41569ed9068351c5c5dbd28de9634d47e1904.jpg"
+    },
+    {
+    "productName": "John Doe",
+    "desc": "Hordeum vulgare, Ячмень, 大麦, Orge, 보리, Cebada, Barley",
+    "image": "https://images.tridge.com/200x200/image/original/9f/63/d9/9f63d965a26c8485699ca4f0b1ef1f885afe8cf1.jpg"
+    },
+    {
+    "productName": "Yam Bean",
+    "desc": "Triticum aestivum, Пшеница, 小麦, Blé, 소맥, Trigo, Wheat",
+    "image": "https://images.tridge.com/200x200/image/original/95/aa/98/95aa9860ebd765f5743100525b85414a36215aee.jpg"
+    },
+    {
+    "productName": "Wheat",
+    "desc": "Triticum aestivum, Пшеница, 小麦, Blé, 소맥, Trigo, Wheat",
+    "image": "https://images.tridge.com/200x200/image/original/f1/fe/4b/f1fe4b262cfebbc0017cc47ff6d31f7f6403a3e0.jpg"
+    },
+    {
+    "productName": "Cassava Starch",
+    "desc": "Сорго, 高粱, Sorgho, 수수, Sorgo, Sorghum",
+    "image": "https://images.tridge.com/200x200/image/original/f3/25/b1/f325b1b404c8d7c7b328bb8aef514751b39fe579.jpg"
+    },
+    {
+    "productName": "Dried Black Gram Bean",
+    "desc": "Vigna mungo, Урд, 黑吉豆, Pois chiche noir, 흑녹두, Black Gram Bean, Black Matpe, Urad Dal",
+    "image": "https://images.tridge.com/200x200/image/original/10/1d/e9/101de9738ea5df419a1e93cde0cdb581e0ee54fb.jpg"
+    },
+    {
+    "productName": "Dried Cowpea",
+    "desc": "Vigna unguiculata, Cream Peas, Коровий горох, 豇豆, Niébé, 동부, Caupí (frijol chino, chícharo salvaje), Cowpea, Black Eyed Pea",
+    "image": "https://images.tridge.com/200x200/image/original/59/8b/89/598b89c885f806c5fcc712b83b10c7065618e092.jpg"
+    },
+    {
+    "productName": "Lima Bean",
+    "desc": "Phaseolus lunatus, 利马豆, 리마콩, Haba verde, Lima Bean",
+    "image": "https://images.tridge.com/200x200/image/original/87/e0/e9/87e0e9a5cc89b8ce032519f9c72ad48061cdc7ee.jpg"
+    },
+    {
+    "productName": "Wheat Flour",
+    "desc": "Пшеничная мука, 小麦面粉, Farine de blé, 밀가루, Harina de trigo, Wheat Flour",
+    "image": "https://images.tridge.com/200x200/image/original/f2/f0/1c/f2f01cec9bc202ef3108fe8fd976dfdfa3f4577b.jpg"
+    },
+    {
+    "productName": "Soybean",
+    "desc": "Vigna mungo, Урд, 黑吉豆, Pois chiche noir, 흑녹두, Black Gram Bean, Black Matpe, Urad Dal",
+    "image": "https://images.tridge.com/200x200/image/original/5c/86/84/5c8684f6684d180c214ebcbc791f9cdd9b27448f.jpg"
+    },
+     {
+    "productName": "Sorghum",
+    "desc": "Vigna angularis, Бобы адзуки, 红豆, Haricot Azuki, 팥, Frijol (judía) adzuki, Adzuki Bean, Red Mung Bean, Aduki Bean, Azuki Bean",
+    "image": "https://images.tridge.com/200x200/image/original/7f/cf/4a/7fcf4ada7a1c44addfea15270222f394997bad84.jpg"
+    },
+     {
+    "productName": "Dried Black Gram Bean",
+    "desc": "Vigna mungo, Урд, 黑吉豆, Pois chiche noir, 흑녹두, Black Gram Bean, Black Matpe, Urad Dal",
+    "image": "https://images.tridge.com/200x200/image/original/10/1d/e9/101de9738ea5df419a1e93cde0cdb581e0ee54fb.jpg"
+    },
+     {
+    "productName": "Maize (Corn)",
+    "desc": "Vigna radiata, 绿豆, Haricot mungo, Soya verde, Mung Bean, Moog Dal, Moong Dal, Mungbean, Green Gram, Mung Dal",
+    "image": "https://images.tridge.com/200x200/image/original/91/a4/15/91a41569ed9068351c5c5dbd28de9634d47e1904.jpg"
+    },
+    {
+    "productName": "Lima Bean",
+    "desc": "Phaseolus lunatus, 利马豆, 리마콩, Haba verde, Lima Bean",
+    "image": "https://images.tridge.com/200x200/image/original/87/e0/e9/87e0e9a5cc89b8ce032519f9c72ad48061cdc7ee.jpg"
+    }
+   
+]
